@@ -10,5 +10,8 @@ public class ProductPage {
 		
 	}
 
+	public void payment() {
+		System.out.println("payment done");
+	}
 
 }
