@@ -7,4 +7,14 @@ public void getCartPage() {
 		System.out.println("CartPage Opened");
 	}
 
+ 
+public void login() {
+	
+}
+
+public void getdata() {
+		
+	}
+
+
 }
