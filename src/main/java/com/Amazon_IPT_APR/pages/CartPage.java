@@ -9,4 +9,7 @@ public class CartPage {
 	public void getData() {
 		
 	}
+	public void deleteData() {
+		
+	}
 }
