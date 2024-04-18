@@ -6,5 +6,9 @@ public class CartPage {
 		
 		
 	}
+	
+	public void checkout() {
+		
+	}
 
 }
