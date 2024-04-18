@@ -9,4 +9,10 @@ public class CartPage {
   public void methodValue() {
 	  
   }
+  public void userName() {
+	  
+  }
+  public void getEmail() {
+	  
+  }
 }
