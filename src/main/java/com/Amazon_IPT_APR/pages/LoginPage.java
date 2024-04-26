@@ -15,6 +15,9 @@ public class LoginPage {
 	public void getData() {
 		
 	}
-	
- 
+
+	public void verifyProductDetails() {
+		
+	}
+
 }
