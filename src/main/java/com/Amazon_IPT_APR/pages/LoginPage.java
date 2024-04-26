@@ -9,4 +9,7 @@ public class LoginPage {
 	public void verifyPayment() {
 		
 	}
+	public void addToCart() {
+		
+	}
 }
