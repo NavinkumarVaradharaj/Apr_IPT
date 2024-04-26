@@ -19,5 +19,8 @@ public class LoginPage {
 	public void verifyProductDetails() {
 		
 	}
-
+	public void Login() {
+	
+	
+}
 }
