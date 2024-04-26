@@ -19,4 +19,19 @@ public class HomePage {
 		
 	}
 
+	public void newhome() {
+		
+	}
+
+	public void userName() {
+		
+
+	}
+	public void getHome() {
+		
+		System.out.println("Welcome Homepage");
+
+	}
+
+
 }

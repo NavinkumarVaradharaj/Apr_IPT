@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: MARIMUTHU
 Build-Jdk: 17.0.10
+=======
+Build-Jdk-Spec: 17
+>>>>>>> 5716cc16e9f7a07f9f7c7aa6f1e47b48e78c9ed0
 Created-By: Maven Integration for Eclipse
 
