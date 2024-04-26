@@ -27,6 +27,9 @@ public class BaseClass {
 	protected static WebDriver driver;
 	File file;
 
+	public void post() {
+		
+	}
 	// Browser Launch Method
 	protected WebDriver getDriver(String browsername) {
 		if (browsername.equalsIgnoreCase("chrome")) {
