@@ -12,4 +12,7 @@ public class LoginPage {
 	public void addToCart() {
 		
 	}
+	public void verifyProductDetails() {
+		
+	}
 }
